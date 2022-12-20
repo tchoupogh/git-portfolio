@@ -1,0 +1,29 @@
+img {
+    width: 100%;
+    border-radius: 50px
+
+}
+#hero {
+    display: flex;
+    width: 100%;
+    
+}
+#text {
+    text-align: center;
+    
+    margin-top: 75px;
+    
+}
+#AboutMe {
+    margin-bottom: 50px;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+  }
+  #footer {
+    background: #ddd;
+  }
